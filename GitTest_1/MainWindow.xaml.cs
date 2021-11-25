@@ -23,6 +23,7 @@ namespace GitTest_1
         public MainWindow()
         {
             InitializeComponent();
+            // 태웅 테스트
         }
     }
 }
